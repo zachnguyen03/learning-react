@@ -17,7 +17,7 @@ class App extends Component {
       selectedVideo: null
     };
 
-    this.videoSearch('Ko Ko Bop');
+    this.videoSearch('Jeon Somi');
   }
 
 
@@ -29,8 +29,6 @@ class App extends Component {
       });
     });
   };
-
-  // If variable same as term, videos: videos => videos
 
 
 
